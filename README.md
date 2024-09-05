@@ -67,7 +67,7 @@
 * [如果A是某一个类的指针，那么在它等于nullptr的情况下能直接调用里面的A对应类里面的public函数吗？](./problems/如果A是某一个类的指针，那么在它等于nullptr的情况下能直接调用里面的A对应类里面的public函数吗？.md)
 * [STL中一般都有那些常见的算法库呢？](./problems/STL中一般都有那些常见的算法库呢？.md)
 * [C++中，结构体可以直接赋值吗？](./problems/C++中，结构体可以直接赋值吗？.md)
-* [\#define和const的区别有那些？](./problems/\#define和const的区别有那些？.md)
+* [\#define和const的区别有那些？](./problems/%23define和const的区别有那些？.md)
 * [在C++的map中，[]与insert有那些区别？](./problems/在C++的map中，[]与insert有那些区别？.md)
 * [在32位和64位系统中，指针分别为多大？](./problems/在32位和64位系统中，指针分别为多大？.md)
 * [weak_ptr是如何解决shared_ptr循环引用的？](./problems/weak_ptr是如何解决shared_ptr循环引用的？.md)
